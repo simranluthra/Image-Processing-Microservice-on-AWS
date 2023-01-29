@@ -11,7 +11,7 @@ You can clone this repo to run the project locally, or navigate to the workspace
 
 Follow below steps to run the project:
 - npm i
-- npm run dev
+- npm run start
 
 ## Testing
 
