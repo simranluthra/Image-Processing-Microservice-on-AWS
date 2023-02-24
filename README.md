@@ -11,7 +11,7 @@ You can clone this repo to run the project locally, or navigate to the workspace
 
 Follow below steps to run the project:
 - npm i
-- npm run start
+- npm run dev
 
 ## Testing
 
@@ -23,4 +23,10 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 
 Github link - https://github.com/simranluthra/Image-Processing-Microservice-on-AWS
 
+Added 3 different examples of working elastic beanstalk URL. You need to find a image from google and copy the image address.
+
 Working elastic beanstalk URL - http://udacityebimagefilter-env.eba-p9wmzkku.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://miro.medium.com/max/1400/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg
+
+http://udacityebimagefilter-env.eba-p9wmzkku.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8&w=1000&q=80
+
+http://udacityebimagefilter-env.eba-p9wmzkku.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMt4OUo8-HaLhyqqjC7MsKYQ5fUhd2txHE7VCLBnDYe5OPiRZCNwofblM2jdey8AXyWQ&usqp=CAU
